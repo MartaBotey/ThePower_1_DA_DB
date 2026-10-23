@@ -8,13 +8,13 @@ El objetivo es identificar tendencias, patrones y realizar predicciones basadas 
 
 
 📚 Estructura del Proyecto  <br>
-├── Google Sheet, estructurado con las siguientes hojas de cálculo: 
+- Google Sheet, estructurado con las siguientes hojas de cálculo: 
   https://docs.google.com/spreadsheets/d/1N9q_2favs_wBhClQJ7_j_ZB5LxWTtNixn5BBhuTiBoE/edit?usp=sharing  <br>
-│   ├── data/ # Datos crudos y procesados <br>
-│   ├──Info/# Información útil del tratamiento realizado  <br>
-│   └── DB Spotify/ # Base de datos y las tablas dinámicas  <br>
+        - data/ # Datos crudos y procesados <br>
+        - Info/# Información útil del tratamiento realizado  <br>
+        - DB Spotify/ # Base de datos y las tablas dinámicas  <br>
   
-└──README.md # Descripción del proyecto 
+- README.md # Descripción del proyecto 
 ️
  
 🛠️Instalación y Requisitos  <br> 
