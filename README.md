@@ -3,12 +3,12 @@
 ## **📖Análisis de Churn en Spotify**
 
 📌Descripción <br>
-Este proyecto realiza un análisis exploratorio y predictivo del churn de Sotify. <br>
+Este proyecto realiza un análisis exploratorio del churn de Spotify. <br>
 El objetivo es identificar tendencias, patrones y realizar predicciones basadas en los datos obtenidos de una base de datos de Kaggle.
 
 
 📚 Estructura del Proyecto  <br>
-├── Google Sheet:  
+├── Google Sheet, estructurado con las siguientes hojas de cálculo: 
   https://docs.google.com/spreadsheets/d/1N9q_2favs_wBhClQJ7_j_ZB5LxWTtNixn5BBhuTiBoE/edit?usp=sharing  <br>
 │   ├── data/ # Datos crudos y procesados <br>
 │   ├──Info/# Información útil del tratamiento realizado  <br>
@@ -23,7 +23,7 @@ El objetivo es identificar tendencias, patrones y realizar predicciones basadas 
 
 
 📊 Resultados y Conclusiones  <br>
-El cuadro de mando analiza una base de datos de 8000 usuarios con un consumo medio de 154min diarios y unos ingresos mensuales de 57.418€. <br>
+El cuadro de mando analiza una base de datos de 8000 usuarios con un consumo medio de 154min diarios y unos ingresos mensuales estimados (tarifas supuestas) de 57.418€. <br>
 Destaca una tasa de cancelación(Churn) del 26%. <br>
 La mayoría de los usuarios no escucha anuncios, es el gráfico donde se observa una diferencia más clara en los resultados. <br>
 Se observa la suscripción "student" en todas las edades, y con un porcentaje muy similar a las otras categorías. Para beneficiarte de esta opción debes ser mayor de 18 años y estar matriculado en una institución educativa que esté acreditada, con una validez de solo 4 años. Con estas condiciones me parece un numero muy elevado de suscripciones. <br>
